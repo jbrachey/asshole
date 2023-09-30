@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/asshole/static/css/main.073c9b0a.css",
+    "main.js": "/asshole/static/js/main.79ac7f23.js",
+    "static/js/787.fa42e3cd.chunk.js": "/asshole/static/js/787.fa42e3cd.chunk.js",
+    "service-worker.js": "/asshole/service-worker.js",
+    "static/media/logo.svg": "/asshole/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/asshole/index.html",
+    "main.073c9b0a.css.map": "/asshole/static/css/main.073c9b0a.css.map",
+    "main.79ac7f23.js.map": "/asshole/static/js/main.79ac7f23.js.map",
+    "787.fa42e3cd.chunk.js.map": "/asshole/static/js/787.fa42e3cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.79ac7f23.js"
+  ]
+}
